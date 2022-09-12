@@ -1,3 +1,3 @@
 # CSS-FLEXBOX-PHOTO-GALLERY
 FreeCodeCamp
-https://lana-tsiv.github.io/CSS-FLEXBOX-PHOTO-GALLERY/
+Deploy: https://lana-tsiv.github.io/CSS-FLEXBOX-PHOTO-GALLERY/
